@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yourbankempty666
-- 👀 I’m interested in ...pen testing :)
-- 🌱 I’m currently learning ... the basics of everything i can find online in pythoin and kali :) 
-- 💞️ I’m looking to collaborate on ... if anyione has any pointers p[lease dont hesitate to write me on telegram or jabber 
+- 👀 I’m interested in ...pen testing 
+- 🌱 I’m currently learning ... the basics of everything i can find online in python and kali :) 
+- 💞️ I’m looking to collaborate on ... if anyione has any pointers please dont hesitate to write me on telegram or jabber 
 - 📫 How to reach me ... telegram = @yourbankempty jabber longwalkshortdock@conversations.im
 
 <!---
